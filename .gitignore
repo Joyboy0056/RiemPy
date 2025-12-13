@@ -1,1 +1,6 @@
 .DS_Store
+
+# Protezione token
+.pypirc
+.env
+*.token
