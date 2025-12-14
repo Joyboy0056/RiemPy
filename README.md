@@ -28,7 +28,7 @@ Expect changes, improvements, and possibly breaking updates in future releases.
 Please refer to the examples in this repository or see the code below and use it as a reference:
 
 ```bash
-from riempy import Manifold, Submanifold, Sphere, Schwarzschild
+from riemmpy import Manifold, Submanifold, Sphere, Schwarzschild
 from sympy import pprint, Matrix, exp, symbols
 
 pprint(Sphere(2).metric)
